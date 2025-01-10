@@ -1,10 +1,3 @@
-# class Student:
-#     name = 'Lakshay'
-    
-# s1 = Student()
-# print(s1)
-
-
 class Atm: 
     
     def __init__(self):
